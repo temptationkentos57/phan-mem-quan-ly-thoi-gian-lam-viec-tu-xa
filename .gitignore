@@ -1,2 +1,3 @@
+# Tệp tin này dùng để chỉ định các tệp và thư mục mà Git sẽ bỏ qua
 node_modules/
 dist/
