@@ -1,3 +1,4 @@
 # Tệp tin này dùng để chỉ định các tệp và thư mục mà Git sẽ bỏ qua
+# Các thư mục này thường được tạo ra bởi các hệ thống quản lý gói và xây dựng
 node_modules/
 dist/
