@@ -1,0 +1,11 @@
+{
+  "name": "phan-mem-quan-ly-thoi-gian-lam-viec-tu-xa",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
